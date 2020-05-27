@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Lani-Martin/Lani-Martin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div class="header">
+  <h1>YoLani Martin</h1>
+   <h4>Geologist | Geographer | GIS | Illustrator </h4>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="navbar">
+  <a class="active" href="#home">Home</a>
+  <a class="active" href="#about">About Me</a>
+      
+  <a href="#education">Education</a>
+  <a href="#experience">Experience</a>
+      <div id="Experience"></div>
+  <a href="/portfolio.html">Projects</a>
+  <a href="/contact.html" class="right">Contact</a>
+</div>
 
-### Markdown
+<div id="about-me">
+<h2>About Me</h2>
+    <p>Martin is a graduate of George Mason University with a Bachelor of Arts in Geology and a Bachelor of Arts in Geography.
+        She has a passion for story telling through maps, creative writing, and even webcomics. Martin plans to use her knowledge
+        in the geosciences to promote environmental and social science awareness while also exploring more of the complex aspects of 
+        economic geology and resource management for a more sustainable future. </p>
+  <div class="side">
+  </div>
+  
+   <h2>Education</h2>
+    <p>George Mason University<br>
+    Bachelor of Arts Geology<br>
+    Bachelor of Arts Geography<br>
+   <ul>
+    <em><li>Cum Laude Honors</li>
+    <li> Gamma Epsilon</li>
+    <li> Alpha Lambda Delta</li>
+    <li>Gamma Theta Upsilon</li></em> </p>
+   </div>
+   
+   <h2>Experience</h2>
+  <div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>2017 - 2020</h2>
+      <p>Geologist and GIS Intern 
+        BLM</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2016</h2>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lani-Martin/Lani-Martin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
