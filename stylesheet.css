@@ -25,7 +25,7 @@ a{
 
 body {
   height: 4000px; /* Used to enable scrolling */
-  background: linear-gradient(55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%);
+  background: linear-gradient(55deg, #d58477 0%, #957bad 51%, #703949 85%);
 }
 
 
@@ -35,7 +35,6 @@ body {
 
 /* Style the body */
 body {
-  font-family: "Arial";
   margin: 0;
 }
 
@@ -43,7 +42,6 @@ body {
 .header {
   padding: 80px;
   text-align: center;
-  background: #87bb5f ;
   color: white;
 
 }
