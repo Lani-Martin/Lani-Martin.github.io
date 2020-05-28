@@ -1,4 +1,4 @@
-
+<title>YoLani Martin</title>
 <div class="header">
   <h1>YoLani Martin</h1>
    <h4>Geologist | Geographer | GIS | Illustrator </h4>
