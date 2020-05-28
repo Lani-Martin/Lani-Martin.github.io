@@ -1,4 +1,10 @@
-<title>YoLani Martin</title>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <head>
+  <link rel = "stylesheet" href="stylesheet.css">
+  </head>
+  
 <div class="header">
   <h1>YoLani Martin</h1>
    <h4>Geologist | Geographer | GIS | Illustrator </h4>
@@ -52,5 +58,7 @@
   </div>
 </div>
 
+</body>
+</html>
 
   
